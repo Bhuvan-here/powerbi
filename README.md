@@ -1,4 +1,4 @@
-**  Chocolate Sales Analysis Dashboard (Power BI)**
+## Chocolate Sales Analysis Dashboard (Power BI)
 
 This Power BI report provides an interactive and visual analysis of chocolate product sales data. It is designed to help stakeholders gain insights into sales performance across regions, products, and time periods.
 
@@ -35,6 +35,6 @@ This Power BI report provides an interactive and visual analysis of chocolate pr
 - Product Performance Index
 
 ---
-![portfolio dashboard](![Screenshot 2025-06-30 162740](https://github.com/user-attachments/assets/707fb328-af41-440d-8123-455a22c6c8f1)
+## portfolio dashboard![Screenshot 2025-06-30 162740](https://github.com/user-attachments/assets/707fb328-af41-440d-8123-455a22c6c8f1)
 
 
